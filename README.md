@@ -4,7 +4,7 @@
 Desenvolvedor apaixonado por programação, sempre em busca de novos desafios e aprendizado contínuo. Amante de tecnologia e soluções inovadoras.
 
 ## 🛠️ Habilidades Técnicas
-- **Linguagens**: Java, Python, C++, PHP, JavaScript
+- **Linguagens**: Java, Python, C++, PHP, JavaScript, React
 - **Front-end**: HTML5, CSS3, JavaScript
 - **Back-end**: Java, Python, PHP, React Native
 - **Bancos de Dados**: MySQL, PostgreSQL
